@@ -1,0 +1,16 @@
+{
+  "positions": [
+    {
+      "id": "1",
+      "title": "Explore"
+    },
+    {
+      "id": "2",
+      "title": "Project"
+    },
+    {
+      "id": "3",
+      "title": "Maintenance"
+    }
+  ]
+}
